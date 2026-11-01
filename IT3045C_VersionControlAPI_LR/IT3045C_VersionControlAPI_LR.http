@@ -1,0 +1,6 @@
+@IT3045C_VersionControlAPI_LR_HostAddress = http://localhost:5017
+
+GET {{IT3045C_VersionControlAPI_LR_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
